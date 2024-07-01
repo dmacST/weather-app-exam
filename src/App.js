@@ -28,7 +28,7 @@ function App() {
         <nav>
           <ul>
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/FinalExam_project_Dimitri-Matcharashvili/">Home</Link>
             </li>
             <li>
               <Link to="/settings">Settings</Link>
